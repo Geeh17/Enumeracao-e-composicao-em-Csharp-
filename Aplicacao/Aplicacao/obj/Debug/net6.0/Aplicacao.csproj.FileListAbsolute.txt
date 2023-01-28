@@ -1,0 +1,15 @@
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\bin\Debug\net6.0\Aplicacao.exe
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\bin\Debug\net6.0\Aplicacao.deps.json
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\bin\Debug\net6.0\Aplicacao.runtimeconfig.json
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\bin\Debug\net6.0\Aplicacao.dll
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\bin\Debug\net6.0\Aplicacao.pdb
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.dll
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\refint\Aplicacao.dll
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.pdb
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\Aplicacao.genruntimeconfig.cache
+C:\Users\Geeêh Luis\Desktop\Cursos\C#\C# Completo orogramação orientada a objetos + projetos\Enumeração e composição\Aplicacao\Aplicacao\obj\Debug\net6.0\ref\Aplicacao.dll
